@@ -1,0 +1,11 @@
+.footer{
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer a{
+  text-decoration: none;
+  color: black;
+}
